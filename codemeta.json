@@ -1,0 +1,131 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "CreativeWork",
+  "identifier": "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY",
+  "name": "Zamin Khāhad Shanīd",
+  "alternateName": "زمین خواهد شنید",
+  "headline": "A Historical Literary Novel Inspired by Ancient Elam",
+  "description": "An open-access Persian historical literary novel set during the Neo-Elamite period. Inspired by the archaeology of Ancient Elam, the novel explores memory, justice, landscape, dialogue, and the lives of ordinary people whose names rarely survived in official history.",
+  "inLanguage": "fa",
+  "genre": [
+    "Historical Fiction",
+    "Literary Fiction",
+    "Historical Novel"
+  ],
+  "keywords": [
+    "Ancient Elam",
+    "Neo-Elamite",
+    "Elam",
+    "Ayapir",
+    "Izeh",
+    "Khuzestan",
+    "Iran",
+    "Ancient Iran",
+    "Historical Fiction",
+    "Historical Novel",
+    "Persian Literature",
+    "Iranian Literature",
+    "Archaeology",
+    "Ancient Near East",
+    "Near Eastern Studies",
+    "Iranology",
+    "Assyriology",
+    "Cultural Heritage",
+    "Landscape Archaeology",
+    "Memory Studies",
+    "Environmental Humanities",
+    "Ecofiction",
+    "Ecofeminism",
+    "Public History",
+    "World Literature"
+  ],
+  "author": {
+    "@type": "Person",
+    "givenName": "Daryoush",
+    "familyName": "Alipour",
+    "name": "Daryoush Alipour"
+  },
+  "datePublished": "2026-07-10",
+  "version": "1.0",
+  "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "isAccessibleForFree": true,
+  "encodingFormat": "application/pdf",
+  "url": "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY",
+  "downloadUrl": "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/raw/main/zamin-tir-1405.pdf",
+  "publishingPrinciples": "Open Access",
+  "audience": [
+    {
+      "@type": "Audience",
+      "audienceType": "Researchers"
+    },
+    {
+      "@type": "Audience",
+      "audienceType": "Students"
+    },
+    {
+      "@type": "Audience",
+      "audienceType": "General Readers"
+    }
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Ancient Elam"
+    },
+    {
+      "@type": "Thing",
+      "name": "Neo-Elamite Period"
+    },
+    {
+      "@type": "Thing",
+      "name": "Iranian Archaeology"
+    },
+    {
+      "@type": "Thing",
+      "name": "Historical Memory"
+    },
+    {
+      "@type": "Thing",
+      "name": "Justice"
+    },
+    {
+      "@type": "Thing",
+      "name": "Landscape"
+    }
+  ],
+  "spatialCoverage": {
+    "@type": "Place",
+    "name": "Ayapir (modern Izeh, Khuzestan, Iran)"
+  },
+  "temporalCoverage": "Neo-Elamite Period (ca. 700 BCE)",
+  "citation": "Alipour, Daryoush. Zamin Khāhad Shanīd. 2026.",
+  "workExample": {
+    "@type": "Book",
+    "bookFormat": "EBook",
+    "encodingFormat": "application/pdf"
+  },
+  "distribution": {
+    "@type": "DataDownload",
+    "encodingFormat": "application/pdf",
+    "contentUrl": "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/raw/main/zamin-tir-1405.pdf"
+  },
+  "isBasedOn": [
+    {
+      "@type": "Place",
+      "name": "Kul-e Farah"
+    },
+    {
+      "@type": "Place",
+      "name": "Eshkaft-e Salman"
+    },
+    {
+      "@type": "Place",
+      "name": "Khung-e Azhdar"
+    }
+  ],
+  "funder": null,
+  "publisher": {
+    "@type": "Organization",
+    "name": "GitHub Repository"
+  }
+}
