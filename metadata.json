@@ -1,0 +1,131 @@
+{
+  "title": "Zamin Khāhad Shanīd",
+  "title_fa": "زمین خواهد شنید",
+  "subtitle": "A Historical Literary Novel Inspired by Ancient Elam",
+  "author": {
+    "name": "Daryoush Alipour",
+    "name_fa": "داریوش علیپور",
+    "role": "Author"
+  },
+  "language": "fa",
+  "original_language": "Persian",
+  "publication_year": 2026,
+  "edition": "1.0",
+  "pages": 179,
+  "format": "PDF",
+  "license": "CC BY-NC 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "open_access": true,
+  "repository": "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY",
+  "download": "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/raw/main/zamin-tir-1405.pdf",
+  "readme": "README.md",
+  "readme_fa": "README.fa.md",
+  "citation": "CITATION.cff",
+  "isbn": "",
+  "doi": "",
+  "orcid": "",
+  "publisher": "GitHub",
+  "country": "Iran",
+  "keywords": [
+    "Ancient Elam",
+    "Neo-Elamite",
+    "Elam",
+    "Ayapir",
+    "Izeh",
+    "Khuzestan",
+    "Iran",
+    "Ancient Iran",
+    "Historical Fiction",
+    "Historical Novel",
+    "Persian Literature",
+    "Iranian Literature",
+    "Archaeology",
+    "Ancient Near East",
+    "Near Eastern Studies",
+    "Iranology",
+    "Assyriology",
+    "Cultural Heritage",
+    "Landscape Archaeology",
+    "Memory Studies",
+    "Environmental Humanities",
+    "Social History",
+    "Public History",
+    "Ecofiction",
+    "Ecofeminism",
+    "World Literature"
+  ],
+  "subjects": [
+    "Historical Fiction",
+    "Ancient History",
+    "Persian Literature",
+    "Archaeology",
+    "Ancient Civilizations",
+    "History",
+    "Philosophy",
+    "Culture"
+  ],
+  "historical_period": {
+    "name": "Neo-Elamite Period",
+    "approximate_date": "ca. 700 BCE"
+  },
+  "geographic_focus": {
+    "country": "Iran",
+    "region": "Khuzestan",
+    "city": "Izeh",
+    "ancient_name": "Ayapir"
+  },
+  "historical_sites": [
+    "Kul-e Farah",
+    "Eshkaft-e Salman",
+    "Khung-e Azhdar"
+  ],
+  "main_themes": [
+    "Memory",
+    "Justice",
+    "Power",
+    "Human Dignity",
+    "Freedom",
+    "Responsibility",
+    "Dialogue",
+    "Landscape",
+    "Water",
+    "Music",
+    "Hope",
+    "Cultural Identity"
+  ],
+  "intended_audience": [
+    "General Readers",
+    "Students",
+    "Researchers",
+    "Historians",
+    "Archaeologists",
+    "Iranologists",
+    "Assyriologists",
+    "Literary Scholars"
+  ],
+  "description": "A Persian historical literary novel set in the Neo-Elamite period. Inspired by archaeological sites in southwestern Iran, the novel explores memory, justice, landscape, and the lives of ordinary people whose names rarely survived in official history.",
+  "description_fa": "رمانی تاریخی–ادبی به زبان فارسی که در واپسین سال‌های ایلام نو روایت می‌شود و با الهام از آثار باستانی ایلام، زندگی مردمانی را بازمی‌آفریند که نامشان کمتر در تاریخ رسمی ثبت شده است.",
+  "files": [
+    {
+      "name": "zamin-tir-1405.pdf",
+      "type": "book",
+      "format": "application/pdf"
+    },
+    {
+      "name": "README.md",
+      "type": "documentation"
+    },
+    {
+      "name": "README.fa.md",
+      "type": "documentation"
+    },
+    {
+      "name": "LICENSE",
+      "type": "license"
+    },
+    {
+      "name": "CITATION.cff",
+      "type": "citation"
+    }
+  ]
+}
