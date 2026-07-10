@@ -1,226 +1,287 @@
-<div dir="rtl">
+<div align="center">
 
-# زمین خواهد شنید
-## Zamin Khāhad Shanīd
+# Zamin Khāhad Shanīd
+## *The Earth Shall Hear*
 
-### رمانی تاریخی–ادبی دربارهٔ ایلام باستان، حافظه، عدالت، زمین و مردمانی که تاریخ کمتر نامشان را به یاد سپرده است.
+### A Historical Literary Novel Inspired by Ancient Elam, Memory, Justice, Landscape, and the Forgotten People of History
 
----
+[![Language](https://img.shields.io/badge/Language-Persian-blue.svg)]()
+[![Format](https://img.shields.io/badge/Format-PDF-red.svg)]()
+[![License](https://img.shields.io/badge/License-CC_BY--NC_4.0-green.svg)]()
+[![Open Access](https://img.shields.io/badge/Open%20Access-Yes-success.svg)]()
 
-> **«تاریخ، نامِ فرمانروایان را حفظ می‌کند؛ اما زمین، زندگیِ مردمان را.»**
-
----
-
-# دربارهٔ کتاب
-
-**زمین خواهد شنید** رمانی تاریخی–ادبی است که در واپسین سال‌های ایلامِ نو، حدود ۲۷۰۰ سال پیش، در سرزمین آیاپیر (ایذهٔ امروزی) و دامنه‌های زاگرس روایت می‌شود.
-
-این کتاب بازسازیِ صرفِ تاریخ نیست؛ بلکه کوششی ادبی برای تصورِ زندگیِ مردمانی است که تمدن را ساختند، اما نامشان کمتر بر سنگ‌ها و کتیبه‌ها ماندگار شد.
-
-داستان از دلِ سنگ‌نگاره‌های کول‌فرح، اشکفت‌سلمان و خونگ‌آژدر الهام گرفته است؛ اما شخصیت‌ها، گفت‌وگوها و بسیاری از رویدادها زاییدهٔ تخیل ادبی‌اند.
-
-این رمان بیش از آنکه دربارهٔ سقوط یک حکومت باشد، دربارهٔ **تولد یک آگاهی** است.
+> **"History remembers kings. The earth remembers people."**
 
 ---
 
-# معرفی کوتاه
+📖 **Download the complete Persian edition**
 
-قدرت مرکزی ایلام رو به ضعف است.
-
-فرمانروایان محلی هنوز فرمان می‌رانند.
-
-مردم میان جنگ، مالیات، خشکسالی و ناامنی زندگی می‌کنند.
-
-در میان این آشوب، **نیکا**، نغمه‌خوان و چنگ‌نوازی جوان، صدای مردمانی می‌شود که تاریخ کمتر نامشان را نوشته است.
-
-در سوی دیگر، **هانی**، فرمانروای آیاپیر، آرام‌آرام درمی‌یابد که فرمانروایی بدون عدالت، تنها سایه‌ای از قدرت است.
-
-در کاروانسرای **گُلِ شور**، کشاورزان، زنان، چوپانان، آهنگران، بازرگانان، دبیران و سالخوردگان گرد هم می‌آیند؛ نه برای توطئه، بلکه برای گفت‌وگو.
-
-آنجا دربارهٔ آب، نان، زمین، عدالت، آزادی و آینده سخن گفته می‌شود.
-
-و همین گفت‌وگوها، آرام‌آرام، سرنوشت انسان‌ها را دگرگون می‌کند.
+➡️ **[zamin-tir-1405.pdf](zamin-tir-1405.pdf)**
 
 ---
 
-# چرا این رمان متفاوت است؟
+🇮🇷 Persian README
 
-این کتاب می‌کوشد تاریخ را از زاویه‌ای روایت کند که کمتر دیده شده است.
+➡️ **[README.fa.md](README.fa.md)**
 
-در اینجا:
-
-- قهرمانان اصلی، مردم عادی‌اند؛ نه شاهان.
-- زمین فقط محل وقوع داستان نیست؛ حافظهٔ زندهٔ آن است.
-- زنان تنها شخصیت‌های فرعی نیستند؛ حاملان فرهنگ، حافظه و زندگی‌اند.
-- گفت‌وگو، مهم‌تر از شمشیر است.
-- عدالت از تقسیم آب و نان آغاز می‌شود، نه از فرمان شاهان.
-- تاریخ، از دل زندگی روزمره روایت می‌شود.
+</div>
 
 ---
 
-# درون‌مایه‌های اصلی
+# About the Book
 
-- حافظه و فراموشی
-- عدالت و قدرت
-- آب، زمین و طبیعت
-- کرامت انسان
-- گفت‌وگو و مشارکت
-- مسئولیت فردی
-- هنر و موسیقی
-- امید
-- آزادی
-- هویت فرهنگی
-- رابطهٔ انسان و سرزمین
+**Zamin Khāhad Shanīd (The Earth Shall Hear)** is an open-access historical literary novel set during the final decades of the **Neo-Elamite Kingdom**, approximately **2,700 years ago**, in **Ayapir (modern Izeh, Khuzestan, Iran)**.
 
----
+Rather than reconstructing political history, the novel imagines the lives of ordinary people whose names rarely survived in inscriptions, reliefs, or royal chronicles.
 
-# لایه‌های رمان
+Inspired by the archaeological landscapes of:
 
-این اثر تنها یک رمان تاریخی نیست و در چندین سطح قابل خواندن است.
+- Kul-e Farah
+- Eshkaft-e Salman
+- Khung-e Azhdar
 
-### تاریخ
+the novel blends documented historical settings with literary imagination.
 
-بازآفرینی واپسین سال‌های ایلام نو.
+Its central question is not:
 
-### جامعه
+> **"How did a kingdom fall?"**
 
-زندگی کشاورزان، زنان، چوپانان، آهنگران، کودکان و مردم عادی.
+but rather:
 
-### فلسفه
-
-پرسش دربارهٔ عدالت، قدرت، آزادی و مسئولیت.
-
-### روان‌شناسی
-
-تحول شخصیت‌ها، به‌ویژه هانی، از اقتدار به خودشناسی.
-
-### محیط زیست
-
-زمین، رود، کوه، بلوط و آب، بخشی از شخصیت رمان‌اند.
-
-### اکوفمینیسم
-
-زن و زمین، هر دو حافظ زندگی و تداوم فرهنگ‌اند.
-
-### اقتصاد
-
-نان، گندم، کار، خراج، تجارت و تولید، بنیان تمدن معرفی می‌شوند.
-
-### نمادگرایی
-
-سنگ، چنگ، آب، نان، باد، کوه و زمین، هر یک معنایی فراتر از ظاهر خود دارند.
+> **"How do ordinary people create civilization?"**
 
 ---
 
-# شخصیت‌های اصلی
+# Keywords
 
-| شخصیت | نقش | نماد |
-|--------|------|------|
-| **نیکا** | نغمه‌خوان و چنگ‌نواز | حافظه، هنر و صدای مردم |
-| **هانی** | فرمانروای آیاپیر | تحول قدرت و وجدان |
-| **هوهین** | همسر هانی | خرد، تأمل و شنیدن |
-| **شوترورو** | وزیر و دبیر | ثبت تجربه و تحول اندیشه |
-| **موراد** | رهبر مردمان شیل‌هی‌تی | مسئولیت و عمل |
-| **مانزات** | کودک | آینده و تداوم زندگی |
-| **آتا** | پیر گلِ شور | پرسش و حکمت |
-| **کوراش** | ارابه‌دار و کاروان‌سالار | حرکت و پیوند مردم |
-| **سِلو** | کشاورز و اندیشمند | عقل انتقادی |
-| **راجو** | مسافر | گفت‌وگوی فرهنگ‌ها |
-| **هالژ** | جست‌وجوگر | آرمان و امید |
-| **جَبرو** | کارگر نیرومند | نیروی کار و طنز زندگی |
+Ancient Elam • Neo-Elamite • Elamite Civilization • Ayapir • Izeh • Zagros Mountains • Historical Fiction • Literary Fiction • Ancient Iran • Iranian History • Archaeology • Cultural Heritage • Landscape Archaeology • Social History • Environmental History • Memory Studies • Oral Tradition • Ancient Near East • Assyriology • Iranology • Ancient Civilizations • World Literature • Historical Novel • Open Access Book
 
 ---
 
-# الهام‌های تاریخی
+# Why this Novel?
 
-رمان از آثار واقعی تمدن ایلام الهام گرفته است، از جمله:
+Unlike many historical novels focused on kings and battles, this work places **ordinary people** at the center of history.
 
-- کول‌فرح
-- اشکفت‌سلمان
-- خونگ‌آژدر
+Its protagonists include:
 
-این مکان‌ها و سنگ‌نگاره‌ها نقطهٔ آغاز تخیل ادبی نویسنده بوده‌اند، نه مرز آن.
+- farmers
+- shepherds
+- women
+- musicians
+- craftsmen
+- traders
+- scribes
+- children
+- elders
 
----
-
-# یادداشت نویسنده
-
-> «این کتاب از میان سنگ‌نگاره‌ها، کتیبه‌ها و نام‌هایی که از ایلام بر جای مانده آغاز شد؛ اما آنچه در این صفحات روایت شد، بیش از هر چیز کوششی بود برای تصور زندگی مردمانی که نامشان کمتر بر سنگ‌ها مانده است.
-
-> شاید بسیاری از آنان هرگز وجود نداشته باشند؛ اما رنج، امید، عشق، ترس، کار، نان، آب و آرزوی عدالت، همواره وجود داشته است.
-
-> این کتاب، بیش از آنکه دربارهٔ گذشته باشد، دربارهٔ انسان است.»
+The novel explores how civilizations emerge through everyday life rather than through conquest alone.
 
 ---
 
-# دسترسی آزاد
+# Synopsis
 
-این کتاب با هدف دسترسی آزاد منتشر شده است تا علاقه‌مندان تاریخ، ادبیات و فرهنگ ایران بتوانند آزادانه آن را مطالعه کنند.
+The central authority of Elam is weakening.
+
+Local rulers still govern the valleys of the Zagros Mountains.
+
+Communities struggle with taxation, drought, insecurity, and political uncertainty.
+
+Among them lives **Nika**, a young singer and harp player whose voice gradually becomes the voice of people forgotten by official history.
+
+Across the valley stands **Hanni**, ruler of Ayapir, who slowly realizes that power without justice becomes only a shadow of authority.
+
+Inside the caravanserai of **Gol-e Shur**, conversations begin.
+
+Not conspiracies.
+
+Conversations.
+
+About water.
+
+Bread.
+
+Justice.
+
+Freedom.
+
+Responsibility.
+
+Memory.
+
+These conversations quietly reshape the future.
 
 ---
 
-# مجوز
+# Major Themes
 
-این اثر تحت مجوز
+- Memory and forgetting
+- Justice and political power
+- Human dignity
+- Water and civilization
+- Landscape and identity
+- Music and oral tradition
+- Freedom and responsibility
+- Community dialogue
+- Cultural memory
+- Ecology
+- Environmental ethics
+- Hope
 
-**Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)**
+---
 
-منتشر شده است.
+# Reading the Novel
 
-شما می‌توانید:
+This novel can be read on multiple levels.
 
-- نسخه‌برداری کنید.
-- به اشتراک بگذارید.
-- اثر مشتق تولید کنید.
+| Perspective | Description |
+|-------------|-------------|
+| Historical | Neo-Elamite society |
+| Literary | Character-driven historical fiction |
+| Philosophical | Justice, authority, ethics |
+| Psychological | Transformation of power |
+| Ecological | Human relationships with land and water |
+| Social | Everyday life of common people |
+| Symbolic | Stone, water, harp, bread, mountains |
 
-به شرط آنکه:
+---
 
-- نام نویسنده ذکر شود.
-- استفادهٔ تجاری صورت نگیرد.
+# Main Characters
+
+| Character | Symbolizes |
+|------------|------------|
+| Nika | Memory, music, the people's voice |
+| Hanni | Power, conscience, transformation |
+| Hovehin | Reflection and wisdom |
+| Murad | Responsibility and action |
+| Manzat | Future |
+| Ata | Questions and wisdom |
+| Kurash | Roads and connection |
+| Selu | Critical thought |
+| Raju | Cultural exchange |
+| Halazh | Hope |
+| Jabro | Labor and resilience |
+
+---
+
+# Historical Background
+
+The novel draws inspiration from real archaeological and historical locations in southwestern Iran.
+
+Including:
+
+- Kul-e Farah Rock Reliefs
+- Eshkaft-e Salman Sanctuary
+- Khung-e Azhdar Reliefs
+
+Historical figures such as **Hanni of Ayapir** appear alongside fictional characters.
+
+The work is **historical fiction**, not an academic reconstruction.
+
+---
+
+# Research Interests
+
+Researchers working in the following areas may find the novel relevant:
+
+- Ancient Elam
+- Neo-Elamite Period
+- Ancient Iran
+- Iranian Archaeology
+- Cultural Heritage
+- Landscape Archaeology
+- Social History
+- Environmental Humanities
+- Memory Studies
+- Historical Fiction
+- Comparative Literature
+- Near Eastern Studies
+- Assyriology
+- Iranology
+- Ancient Religions
+- Oral History
+- Eco-criticism
+- Ecofeminism
+- Public History
+
+---
+
+# Book Information
+
+| Item | Details |
+|------|---------|
+| Title | Zamin Khāhad Shanīd |
+| English Title | The Earth Shall Hear |
+| Author | Daryoush Alipour |
+| Language | Persian |
+| Format | PDF |
+| Pages | 179 |
+| First Edition | 2026 |
+| License | CC BY-NC 4.0 |
+
+---
+
+# Citation
+
+```
+Alipour, Daryoush.
+
+Zamin Khāhad Shanīd.
+Persian Historical Novel.
+
+2026.
+```
+
+---
+
+# License
+
+This book is distributed under the
+
+**Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**
+
+You are free to:
+
+- Read
+- Share
+- Copy
+- Redistribute
+- Create adaptations
+
+Under the following conditions:
+
+- Attribution is required.
+- Non-commercial use only.
 
 https://creativecommons.org/licenses/by-nc/4.0/
 
 ---
 
-## دانلود کتاب
+# Contributing
 
-فایل کامل پی‌دی‌افِ *زمین خواهد شنید* را می‌توانید از همین مخزن دانلود کنید:
-
-📥 **[دانلود فایل zamin-tir-1405.pdf](zamin-tir-1405.pdf)**
-
+Corrections, historical suggestions, typographical fixes, and scholarly comments are welcome through the **Issues** section of this repository.
 
 ---
 
-# مشخصات کتاب
+# Author's Note
 
-**عنوان:** زمین خواهد شنید
+This novel began with the stone reliefs and inscriptions of Ancient Elam.
 
-**نویسنده:** داریوش علیپور
+It became an attempt to imagine the lives of those whose names were never carved into stone.
 
-**سال انتشار:** ۱۴۰۵ (۲۰۲۶)
+Perhaps many of these characters never existed.
 
-**زبان:** فارسی
+Yet work, grief, hope, bread, water, music, love, and the longing for justice have always existed.
 
-**قالب:** PDF
+This is ultimately not a novel about the past.
 
-**تعداد صفحات:** ۱۷۹
-
----
-
-# ارتباط
-
-برای ارسال دیدگاه، گزارش خطا، پیشنهاد یا درخواست همکاری، لطفاً از بخش **Issues** این مخزن استفاده کنید.
+It is a novel about humanity.
 
 ---
 
-## سخن پایانی
+<div align="center">
 
-> **«سنگ‌ها، روایتِ فرمانروایان را حفظ می‌کنند؛ اما زمین، زندگیِ مردمان را.»**
+## **"What was never written on stone remained in the memory of the earth."**
 
-> **«آنچه بر سنگ‌ها نوشته نشد، در حافظهٔ زمین باقی ماند.»**
-
-**زمین به یاد می‌سپارد.**
-
-**زمین خواهد شنید.**
+# **The Earth Shall Hear**
 
 </div>
