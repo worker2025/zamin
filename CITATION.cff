@@ -1,20 +1,22 @@
 cff-version: 1.2.0
+
 title: "Zamin Khāhad Shanīd (زمین خواهد شنید)"
+
 message: >
   If you use this book in research, teaching, or academic publications,
-  please cite it using the metadata provided below.
+  please cite it using the metadata below.
 
 type: book
 
 authors:
   - family-names: "Alipour"
     given-names: "Daryoush"
-    name-particle: ""
-    orcid: ""
 
 identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21298166"
   - type: url
-    value: "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY"
+    value: "https://github.com/worker2025/zamin"
 
 abstract: >
   A Persian historical literary novel inspired by Ancient Elam,
@@ -30,8 +32,8 @@ keywords:
   - Izeh
   - Iran
   - Historical Fiction
-  - Persian Literature
   - Historical Novel
+  - Persian Literature
   - Archaeology
   - Ancient Near East
   - Iranology
@@ -40,32 +42,27 @@ keywords:
   - Memory Studies
   - Environmental Humanities
 
-license: CC-BY-NC-4.0
+license: "CC-BY-NC-4.0"
 
-language: fa
+language: "fa"
 
 version: "1.0"
 
 date-released: "2026-07-10"
 
-repository-code: "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY"
+repository-code: "https://github.com/worker2025/zamin"
 
-url: "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY"
+url: "https://github.com/worker2025/zamin"
 
 preferred-citation:
   type: book
   authors:
     - family-names: "Alipour"
       given-names: "Daryoush"
-
   title: "Zamin Khāhad Shanīd (زمین خواهد شنید)"
-
   year: 2026
-
   publisher: "GitHub"
-
-  language: fa
-
-  license: CC-BY-NC-4.0
-
-  url: "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY"
+  doi: "10.5281/zenodo.21298166"
+  url: "https://doi.org/10.5281/zenodo.21298166"
+  language: "fa"
+  license: "CC-BY-NC-4.0"
