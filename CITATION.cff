@@ -1,0 +1,71 @@
+cff-version: 1.2.0
+title: "Zamin Khāhad Shanīd (زمین خواهد شنید)"
+message: >
+  If you use this book in research, teaching, or academic publications,
+  please cite it using the metadata provided below.
+
+type: book
+
+authors:
+  - family-names: "Alipour"
+    given-names: "Daryoush"
+    name-particle: ""
+    orcid: ""
+
+identifiers:
+  - type: url
+    value: "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY"
+
+abstract: >
+  A Persian historical literary novel inspired by Ancient Elam,
+  the Neo-Elamite period, memory, justice, landscape,
+  and the lives of ordinary people whose names rarely survived
+  in historical inscriptions.
+
+keywords:
+  - Ancient Elam
+  - Neo-Elamite
+  - Elam
+  - Ayapir
+  - Izeh
+  - Iran
+  - Historical Fiction
+  - Persian Literature
+  - Historical Novel
+  - Archaeology
+  - Ancient Near East
+  - Iranology
+  - Assyriology
+  - Cultural Heritage
+  - Memory Studies
+  - Environmental Humanities
+
+license: CC-BY-NC-4.0
+
+language: fa
+
+version: "1.0"
+
+date-released: "2026-07-10"
+
+repository-code: "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY"
+
+url: "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY"
+
+preferred-citation:
+  type: book
+  authors:
+    - family-names: "Alipour"
+      given-names: "Daryoush"
+
+  title: "Zamin Khāhad Shanīd (زمین خواهد شنید)"
+
+  year: 2026
+
+  publisher: "GitHub"
+
+  language: fa
+
+  license: CC-BY-NC-4.0
+
+  url: "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY"
