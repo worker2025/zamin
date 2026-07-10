@@ -29,7 +29,7 @@
 ---
 <div>
   <p align="center">
-  <img src="cover.jpg" width="420" alt="جلد کتاب زمین خواهد شنید">
+  <img src="cover.png" width="420" alt="جلد کتاب زمین خواهد شنید">
 </p>
 </div>
 
