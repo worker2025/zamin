@@ -1,4 +1,4 @@
-<div align="center">
+<div dir="rtl" align="center">
 
 # زمین خواهد شنید
 
