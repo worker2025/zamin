@@ -28,7 +28,7 @@
 </p>
 </div>
 
-<div align="center">
+<div dir="rtl">
 
 # دربارهٔ کتاب
 
