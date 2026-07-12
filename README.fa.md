@@ -218,7 +218,7 @@ https://creativecommons.org/licenses/by-nc/4.0/
 
 ---
 </div>
-<div align="center">
+<div dir="rtl" align="center">
 
 ## **«آنچه بر سنگ‌ها نوشته نشد، در حافظهٔ زمین باقی ماند.»**
 
