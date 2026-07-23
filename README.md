@@ -25,6 +25,17 @@
 ➡️ **[README.fa.md](README.fa.md)**
 
 </div>
+---
+<div align="center">
+## 📄 Complete Introduction, Synopsis & Literary Analysis
+
+For readers interested in the historical background, characters, symbolism, narrative structure, and literary analysis of *The Earth Will Hear*, a complete companion guide is available.
+
+📘 **English PDF**
+
+> **[📥 Download the Complete Introduction, Synopsis & Literary Analysis (PDF)](The-Earth-Will-Hear-Analysis-FA.pdf)**
+
+</div>
 
 ---
 <div>
