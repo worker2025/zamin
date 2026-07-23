@@ -25,7 +25,9 @@
 ➡️ **[README.fa.md](README.fa.md)**
 
 </div>
+
 ---
+
 <div align="center">
 ## 📄 Complete Introduction, Synopsis & Literary Analysis
 
