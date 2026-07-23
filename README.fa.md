@@ -21,7 +21,7 @@
 
 </div>
 
-div dir="rtl" align="center">
+<div dir="rtl" align="center">
 
 ## 📄 نسخه کامل معرفی، خلاصه و تحلیل رمان
 
