@@ -29,6 +29,7 @@
 ---
 
 <div align="center">
+  
 ## 📄 Complete Introduction, Synopsis & Literary Analysis
 
 For readers interested in the historical background, characters, symbolism, narrative structure, and literary analysis of *The Earth Will Hear*, a complete companion guide is available.
