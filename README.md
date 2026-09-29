@@ -296,6 +296,8 @@ This is ultimately not a novel about the past.
 
 It is a novel about humanity.
 
+This novel is the result of approximately three years of the author's writing and development. During its creation, artificial intelligence was used as an author's assistant through a long process of dialogue, consultation, and exchange of ideas. The illustrations were also created with artificial intelligence, based on the author's selection and judgment, through repeated editing and review.
+
 ---
 
 <div align="center">
