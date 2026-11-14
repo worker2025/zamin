@@ -16,7 +16,7 @@
 
 📖 **Download the complete Persian edition**
 
-➡️ **[zamin-aban1405.pdf](zamin-aban1405.pdf)**
+➡️ **[zamin-azar1405.pdf](zamin-azar1405.pdf)**
 
 ---
 
